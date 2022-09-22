@@ -14,7 +14,7 @@ class Tiger{
     class babypuppy extends Puppy{
     	void sounds() {
     		System.out.println("meow....");
-    	}\]
+    	}
     }
 
 public class Inheritance2 {
