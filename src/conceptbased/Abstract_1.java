@@ -17,28 +17,19 @@ abstract class Mycar{
 		void milage() {
 			System.out.println("20km/hr");
 			
+		
 		}
 	}
    
-	 class BMWw extends Mycar{
-		
-		
+	 class BMWw extends Mycar{		
 			void cost() {
-				System.out.println("20lakhs");
-				
-			
+				System.out.println("20lakhs");	
 		}
 		
 		void milage() {
-			System.out.println("28km/hr");
-			
-			
+			System.out.println("28km/hr");		
 		}
 	}
-
-
-	
-	
 public class Abstract_1 {
 
 	public static void main(String[] args) {

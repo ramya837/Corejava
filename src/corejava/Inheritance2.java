@@ -1,4 +1,7 @@
 package corejava;
+
+import optionalExercise.Animal;
+
 class Tiger{
 	void eat(){
 		System.out.println("eating...");
