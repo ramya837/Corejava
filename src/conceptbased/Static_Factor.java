@@ -37,7 +37,7 @@ class Card{
 	}
 }
 
-public class Static_Iterator {
+public class Static_Factor {
 	public static void main(String args[]) {
 		
 		CarModels cm=Card.getCarModels("Audi2");
