@@ -6,7 +6,7 @@ public class exception_areyindex {
 		// TODO Auto-generated method stub
              int a=6;
              int b=850;
-             int array[]= {4,6,8,10};
+             int array[]= {4,6,8,10,12,14};
              System.out.println(a+b);
              System.out.println(array[6]);
 	}
